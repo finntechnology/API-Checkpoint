@@ -1,4 +1,4 @@
-# API Checkpoint b
+# API Checkpoint
 
 ## What You're Aiming For
 
